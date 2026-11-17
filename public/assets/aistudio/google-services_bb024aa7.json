@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "883610013326",
+    "firebase_url": "https://ppbf-2023-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ppbf-2023",
+    "storage_bucket": "ppbf-2023.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883610013326:android:ea94f0b69102527275c3df",
+        "android_client_info": {
+          "package_name": "com.forum.ppbf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883610013326-5oloiikglhccrv8m71b75objvbp81d9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4QD3fQPj8pT_t2a-iv-VUpYmPNU39Wj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883610013326-5oloiikglhccrv8m71b75objvbp81d9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
